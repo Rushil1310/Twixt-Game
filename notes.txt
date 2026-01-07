@@ -1,1 +1,1 @@
-This line was edited in features branch
+This line is resolved after merge conflict
