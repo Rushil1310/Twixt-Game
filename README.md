@@ -4,6 +4,8 @@
   To run the game we open terminal in which these 4 files are there and then we use the following commands:<br/>
     ```>make``` <br/>
     ```>./a.exe```
+  
+  Or you can just run a.exe given in the github files. 
 ## Interface of the game:
   This game is designed as an array of characters where:<br/>
     **'.' = empty space**<br/>
